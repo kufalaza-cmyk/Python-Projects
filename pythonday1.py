@@ -1,0 +1,6 @@
+name = input("What's your name? ")
+age = input("How old are you? ")
+location = input("Where are you based?")
+occupation = input("What's your occupation? ")
+monthlyIncome = input("Monthly salary ")
+print(f"CustomerDetails, {name}, {age}, {location}, {occupation},  {monthlyIncome}")
